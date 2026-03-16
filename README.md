@@ -6,7 +6,7 @@ Minecraft 最新版本轻量化Fabric模组
 
 项目说明&更新计划
 
-Welcome_awa（已完成1.21.11的开发，待发布）：为每个进入服务器的玩家推送消息
-QQbot_awa（已完成1.21.11的开发，待发布）：一款基于 Python 异步架构，实现 Minecraft 服务器实时状态监控、账号绑定及消息播报的智能机器人
-BetterList_awa（待开发）：更好的玩家列表
-Title_awa（待开发）：玩家头衔
+Welcome_awa（已完成1.21.11的开发，待发布）：为每个进入服务器的玩家推送消息  
+QQbot_awa（已完成1.21.11的开发，待发布）：一款基于 Python 异步架构，实现 Minecraft 服务器实时状态监控、账号绑定及消息播报的智能机器人  
+BetterList_awa（待开发）：更好的玩家列表  
+Title_awa（待开发）：玩家头衔  
