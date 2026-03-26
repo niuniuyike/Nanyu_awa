@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "motd_awa",
+  "version": "${version}",
+  "name": "Motd Awa",
+  "description": "随机 MOTD 模组",
+  "authors": ["msu333"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/motd_awa/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "top.msu333.MotdAwa"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": ">=26.1",
+    "java": ">=25"
+  }
+}
