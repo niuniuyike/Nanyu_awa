@@ -28,3 +28,5 @@ Minecraft 最新版本轻量化 Fabric 模组
   玩家头衔
 
 ---
+
+[下载]（https://github.com/niuniuyike/awa_mods/releases/）
