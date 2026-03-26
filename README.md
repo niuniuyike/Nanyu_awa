@@ -11,7 +11,7 @@ Minecraft 最新版本轻量化Fabric模组
 
 ·QQbot_awa///[wiki](https://github.com/niuniuyike/awa_mods/wiki/QQbot_awa)///：一款基于 Python 异步架构，实现 Minecraft 服务器实时状态监控、账号绑定及消息播报的智能机器人  
 
-motd_awa///[wiki](https://github.com/niuniuyike/awa_mods/wiki/Motd_awa)///：服务器MOTD
+·motd_awa///[wiki](https://github.com/niuniuyike/awa_mods/wiki/Motd_awa)///：服务器MOTD
 
 ·BetterList_awa（待开发）：更好的玩家列表  
 
