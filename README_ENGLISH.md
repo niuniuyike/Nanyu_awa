@@ -1,15 +1,19 @@
-# Nanyu_awa
-[English](README_ENGLISH.md) | [简体中文](README.md)
-Lightweight Fabric Mod for the Latest Version of Minecraft
+# awa_mods
 
-!!99% of the code in this project is written by AI!!
+[中文](README.md) | [English](README_ENGLISH.md)
 
-Project Description & Update Plan
+Lightweight Fabric mods for the latest version of Minecraft
 
-·Welcome_awa (Completed 1.21.11, pending release): Pushes messages to every player entering the server.
+！！！99% of the code in this project is written by AI！！！
 
-·QQbot_awa (Completed 1.21.11, pending release): An intelligent bot based on Python asynchronous architecture that enables real-time monitoring of Minecraft server status, account binding, and message broadcasting.
+Project description & update plan — click on the wiki for usage instructions
 
-·BetterList_awa (Under Development): A better player list.
+·Welcome_awa///[wiki](https://github.com/niuniuyike/awa_mods/wiki/Welcome_awa_English)///: Sends a welcome message to every player joining the server  
 
-·Title_awa (Under Development): Player titles.
+·QQbot_awa///[wiki](https://github.com/niuniuyike/awa_mods/wiki/QQbot_awa_English)///: An intelligent bot built on Python's asynchronous architecture that provides real-time Minecraft server status monitoring, account binding, and message broadcasting  
+
+·motd_awa///[wiki](https://github.com/niuniuyike/awa_mods/wiki/Motd_awa_English)///: Server MOTD  
+
+·BetterList_awa (planned): Enhanced player list  
+
+·Title_awa (planned): Player titles
