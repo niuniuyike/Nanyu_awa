@@ -29,4 +29,4 @@ Minecraft 最新版本轻量化 Fabric 模组
 
 ---
 
-[下载]（https://github.com/niuniuyike/awa_mods/releases/）
+[下载](https://github.com/niuniuyike/awa_mods/releases/)
